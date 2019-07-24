@@ -56,7 +56,7 @@ app.listen(3000, () => {
 ### 4、创建数据库配置文件db.js
 
 ```
-// conf/db.js
+// config/db.js
 // MySQL数据库联接配置
 module.exports = {
 	mysql: {
